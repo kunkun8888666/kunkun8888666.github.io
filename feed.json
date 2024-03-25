@@ -5,9 +5,24 @@
     "home_page_url": "https://kunkun8888666.github.io",
     "feed_url": "https://kunkun8888666.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://kunkun8888666.github.io/media/website/icon.png",
     "author": {
         "name": "kunkunblog"
     },
     "items": [
+        {
+            "id": "https://kunkun8888666.github.io/mcqi-dong-qi.html",
+            "url": "https://kunkun8888666.github.io/mcqi-dong-qi.html",
+            "title": "MC启动器",
+            "summary": "1.电脑版 （1）PCL2，作为近几年开发的启动器，功能完善，界面美观，但会有一些bug。作者正在处理此类问题。下载地址：PCL 正式版下载丨龙腾猫跃丨爱发电 (afdian.net) （2）HMCL，作为老牌的mc启动器，他的功能就是稳定，虽然界面没有PCL2好，但稳定性比PCL2好。下载地址：hmcl.huangyuhui.net 2.手机版 （1）HMCL-PE，下载地址：https://www.123pan.com/s/ITkGjv-szduA.html，提取码：1423 （2）PojavLauncher，下载地址：https://www.123pan.com/s/ITkGjv-2zduA.html，提取码：1423",
+            "content_html": "<p><strong>1.电脑版</strong></p>\n<p>    （1）PCL2，作为近几年开发的启动器，功能完善，界面美观，但会有一些bug。作者正在处理此类问题。下载地址：<a href=\"https://afdian.net/p/0164034c016c11ebafcb52540025c377\">PCL 正式版下载丨龙腾猫跃丨爱发电 (afdian.net)</a></p>\n<p>    （2）HMCL，作为老牌的mc启动器，他的功能就是稳定，虽然界面没有PCL2好，但稳定性比PCL2好。下载地址：<a href=\"https://hmcl.huangyuhui.net/\">hmcl.huangyuhui.net</a></p>\n<p><strong>2.手机版</strong></p>\n<p>    （1）HMCL-PE，下载地址：https://www.123pan.com/s/ITkGjv-szduA.html，提取码：1423</p>\n<p>    （2）PojavLauncher，下载地址：https://www.123pan.com/s/ITkGjv-2zduA.html，提取码：1423</p>",
+            "author": {
+                "name": "kunkunblog"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-25T21:01:04+08:00",
+            "date_modified": "2024-03-25T21:01:04+08:00"
+        }
     ]
 }
